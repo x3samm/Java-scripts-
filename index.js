@@ -20,6 +20,7 @@ console.log(typeof isStudent); // boolean
 let a = 10;
 let b = 3;
 
+
 console.log(a + b);   // addition
 console.log(a - b);   // subtraction
 console.log(a * b);   // multiplication
